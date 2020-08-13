@@ -8,11 +8,22 @@
   </url>
   
   <url>
-    <loc>https://chaos.community/categories/</loc>
+    <loc>https://chaos.community/broadcast/</loc>
+    <lastmod>1928-07-02T00:00:01-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://chaos.community/</loc>
+    <lastmod>1928-07-02T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaos.community/broadcast/episode-0/</loc>
+    <lastmod>1928-07-02T00:00:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chaos.community/categories/</loc>
   </url>
   
   <url>

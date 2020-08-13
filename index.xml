@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaos Community Broadcast</title>
-    <link>https://chaoscommunity.github.io/</link>
+    <link>https://chaos.community/</link>
     <description>Recent content on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2020 15:27:40 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 1928 00:00:01 -0500</lastBuildDate>
     
-	<atom:link href="https://chaoscommunity.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chaos.community/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Episode 0 - The One With Nate, er Nathan</title>
-      <link>https://chaoscommunity.github.io/broadcast/2020-08-03-episode-0/</link>
-      <pubDate>Fri, 07 Aug 2020 15:27:40 -0500</pubDate>
-      
-      <guid>https://chaoscommunity.github.io/broadcast/2020-08-03-episode-0/</guid>
-      <description>Yay</description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>https://chaoscommunity.github.io/about/</link>
+      <link>https://chaos.community/about/</link>
       <pubDate>Fri, 07 Aug 2020 15:08:03 -0500</pubDate>
       
-      <guid>https://chaoscommunity.github.io/about/</guid>
+      <guid>https://chaos.community/about/</guid>
       <description>Chaos Community We are a community of chaos engineering practitioners.
 Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.</description>
+    </item>
+    
+    <item>
+      <title>Something is coming</title>
+      <link>https://chaos.community/broadcast/2020-08-03-episode-0/</link>
+      <pubDate>Mon, 02 Jul 1928 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/2020-08-03-episode-0/</guid>
+      <description>on August 17th, 2020</description>
     </item>
     
   </channel>

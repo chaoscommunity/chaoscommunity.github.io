@@ -6,10 +6,29 @@
     <description>Recent content on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:01 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://chaos.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 2: The one with Russ Miles</title>
+      <link>https://chaos.community/broadcast/episode-2/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/episode-2/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/U9P7zfZVBm8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+&lt;p&gt;Russ Miles is a prolific writer and speaker on Chaos Engineering, especially well-known as
+an evangelist of the discipline in his home town of London. James and Casey discuss his chapter
+in &lt;a href=&#34;https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869&#34;&gt;Chaos Engineering: System Resiliency in Practice&lt;/a&gt;
+which is titled, “Open Minds, Open Science,
+and Open Chaos.”  And as if that isn’t a mouthful, we discuss his previous published works and
+his Chaos Engineering-themed tour of the United States.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Episode 1: The one with Nora Jones</title>

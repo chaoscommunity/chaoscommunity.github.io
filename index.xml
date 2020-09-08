@@ -6,10 +6,28 @@
     <description>Recent content on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:01 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://chaos.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 3: The one with Julie Gunderson</title>
+      <link>https://chaos.community/broadcast/episode-3/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/episode-3/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KivJ7AfIoqs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+&lt;p&gt;In this episode Julie explains how communication fits in your DevOps (and Chaos Engineering)
+efforts and she dissects the misuse of ITIL and root cause thinking as challenges to building
+a learning organization. After hearing her talk The Psychology of Chaos Engineering at DevOpsDays
+Raleigh, we knew she had to come on the show. Julie explains how to approach digital and cloud
+transformations as well as delivers some hilarious one-liners, making this a show to remember.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Episode 2: The one with Russ Miles</title>

@@ -6,10 +6,25 @@
     <description>Recent content on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:01 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://chaos.community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 5: The one with Crystal Hirschorn</title>
+      <link>https://chaos.community/broadcast/episode-5/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/episode-5/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MZtZ_b8MQvY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+&lt;p&gt;In this episode, we experience a royal reception with Crystal Hirschorn, the Director Of Engineering at Snyk, to talk about chaos engineering and how to put those practices to work in organizations of any size. Crystal shares advice with us on how to get VP’s and others on board with chaos engineering, which looks quite different from bringing engineers along on the journey.&lt;/p&gt;
+&lt;p&gt;Throughout the conversation you will see how chaos engineering has matured from the early days of Chaos Monkey from Netflix and how it is in practice at some of the largest organizations across the globe. Crystal discusses how resilience engineering moves from academia and can be put into  practice in real organizations. It helps us understand socio-technical systems and how they come into play when we write software.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Episode 4: The one with John Allspaw</title>

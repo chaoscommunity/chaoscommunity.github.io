@@ -6,10 +6,25 @@
     <description>Recent content in Broadcasts on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:01 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:01 -0500</lastBuildDate>
     
 	<atom:link href="https://chaos.community/broadcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 10: The one with Andy Fleener</title>
+      <link>https://chaos.community/broadcast/episode-10/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/episode-10/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PAFhFNpqHPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+&lt;p&gt;In this episode, we are joined by Andy Fleener, Platform Operations Manager at SportsEngine, and contributing author to Chaos Engineering: System Resiliency in Practice.&lt;/p&gt;
+&lt;p&gt;We discuss his chapter on humanistic chaos and how we can apply Chaos Engineering to human systems. This leads to other subjects such as Andy’s affinity for humans and how humans approach problems and his preference for salty nut rolls versus peanut brittle.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Episode 9: The one with Liz Fong-Jones</title>

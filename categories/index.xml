@@ -5,10 +5,6 @@
     <link>https://chaos.community/categories/</link>
     <description>Recent content in Categories on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://chaos.community/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://chaos.community/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

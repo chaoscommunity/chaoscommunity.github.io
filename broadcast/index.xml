@@ -6,7 +6,21 @@
     <description>Recent content in Broadcasts on Chaos Community Broadcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:01 -0500</lastBuildDate><atom:link href="https://chaos.community/broadcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 00:00:01 -0500</lastBuildDate><atom:link href="https://chaos.community/broadcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 14: The one with Jason Cahoon</title>
+      <link>https://chaos.community/broadcast/episode-14/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:01 -0500</pubDate>
+      
+      <guid>https://chaos.community/broadcast/episode-14/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tg8_MCy0vzE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes:&lt;/h2&gt;
+&lt;p&gt;In this episode we are joined with Jason Cahoon, Site Reliability Engineer at Google. Jason talks with us about all things Google and the DiRT framework (aka Chaos Engineering), from the massive amount of coding happening at Google to experiments reinforcing the value of DiRT itself (plus get the dirt on the DiRT curse!).&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Episode 13: The one with Amy Tobey</title>
       <link>https://chaos.community/broadcast/episode-13/</link>
